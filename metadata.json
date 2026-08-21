@@ -1,0 +1,6 @@
+{
+  "id": "shopmaster-pro",
+  "name": "BizLedger: Stationery & General Store Manager",
+  "description": "Client-side web application for managing inventory, sales, and reports for a stationery shop and general store.",
+  "features": "multi-unit support, real-time decimal weight calculations, and integrated business analytics."
+}
